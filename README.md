@@ -421,6 +421,8 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Your LLM selects the right tool but extracts the wrong parameters. How do you fix parameter extraction?
 - How do Computer-Use Agents work?
   - Answer: [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
+- How do Browser Agents work?
+  - Answer: [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
 - How does LangChain work?
   - Answer: [How does LangChain work?](https://outcomeschool.com/blog/how-does-langchain-work)
 - How does LangGraph work?
