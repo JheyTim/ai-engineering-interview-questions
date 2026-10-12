@@ -538,7 +538,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Design a RAG System (Chat with Your Documents)
 - Design an enterprise RAG assistant over 10M documents with per-user permissions.
 - Design Memory for a Personal AI Assistant
-  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
+  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
 - Design a Deep Research Agent
 - Design a Multi-Agent Customer Support System
   - Answer: [Multi-Agent Systems](https://outcomeschool.com/blog/multi-agent-systems)
@@ -566,7 +566,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 - Design an AI system for automated code migration.
 - Design an AI-powered legal document review system.
 - Design a conversational AI system with memory across sessions.
-  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory)
+  - Answer: [AI Agent Memory](https://outcomeschool.com/blog/ai-agent-memory) and [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
 - How do you design for latency vs quality trade-offs in AI systems?
 - How do you implement caching strategies for LLM applications?
   - Answer: [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work) and [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
