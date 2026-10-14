@@ -736,6 +736,7 @@ Learn about the LLM, RAG, MCP, Agent, Fine-tuning & Quantization: [AI Engineerin
 ### AI Safety, Ethics, and Responsible AI
 
 - What are hallucinations in LLMs, and how do you mitigate them?
+  - Answer: [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
 - What is prompt injection, and what are the different types (direct, indirect)?
   - Answer: [Prompt Injection in LLMs](https://outcomeschool.com/blog/prompt-injection-in-llms)
 - How do you implement input and output guardrails for AI systems?
